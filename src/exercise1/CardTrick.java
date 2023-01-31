@@ -46,6 +46,7 @@ public class CardTrick {
      * A simple method to print out personal information. Follow the instructions to 
      * replace this information with your own.
      * @author Sarah Rico Jan 2023
+     * I am done!!
      */
     private static void printInfo() {
  
