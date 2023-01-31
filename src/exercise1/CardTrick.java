@@ -13,7 +13,7 @@ public class CardTrick {
     public static void main(String[] args) {
     
         Scanner input = new Scanner(System.in);
-        
+       
         Card [] hand = new Card[7];
         Random random = new Random();
 
