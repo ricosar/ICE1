@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Class that matches the value and suit of a card and if
  * it matches, prints it out with user input
  * 
- * @author Sarah Rico022 
+ * @author Sarah Rico 
  */
 public class CardTrick {
     
